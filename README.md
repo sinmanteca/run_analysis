@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Getting & Cleaning Data Course Project
 ==========
 
@@ -58,9 +57,3 @@ Thanks to David Hood, Community TA, for [this suggestion](https://thoughtfulblok
 ### Development environment
 
 The code was developed using R, 3.2.2 for Windows, RStudio, 0.99.484, running on Windows 10 64-bit. The code was run repeatedly to confirm the results.
-
-
-
-=======
-# run_analysis
->>>>>>> 14c38ed0dd572d1fa473e0cf59673f03c3c957a3
