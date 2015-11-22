@@ -24,7 +24,7 @@ The raw data are divided into several files which include:
 - train/y_train.txt - activity IDs for each training observation (integer)
 - train/X_train.txt - measurements for each feature in each training observation (numeric)
 
-There are 561 features describing the mean, standard deviation, and other descriptive statistics that have been calculated from inertial signals data from the smartphone's accelerometer and gyroscope. As these data have been normalized and bounded within [-1,1], all features are unit-less. The inertial signals data (not used in the tidy data set) are provided in standard gravitational units 'g' for signals measuring linear acceleration and radians/second for signals measuring angular velocity. A detailed explanation of the each feature and the inertial signals can be found in the README.txt and features_info.txt files which accompany the data.
+There are 561 features describing the mean, standard deviation, and other descriptive statistics that have been calculated from inertial signals data from the smartphone's accelerometer and gyroscope. As these data have been normalized and bounded within [-1,1], all features are unit-less. The inertial signals data (not used in the tidy data set) are provided in standard gravitational units 'g' for signals measuring linear acceleration and radians/second for signals measuring angular velocity. A detailed explanation of the each feature and the inertial signals can be found in the [README.txt](https://github.com/sinmanteca/run_analysis/blob/master/data/README.txt) and [features_info.txt](https://github.com/sinmanteca/run_analysis/blob/master/data/features_info.txt) files which accompany the data.
 
 
 ### Processing summary
